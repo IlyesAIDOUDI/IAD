@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Buy groceries"
+    },
+    {
+        "id": 2,
+        "name": "Do laundry"
+    },
+    {
+        "id": 3,
+        "name": "Clean the house"
+    }
+]
